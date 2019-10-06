@@ -1,0 +1,22 @@
+{
+  "name": "yiban-server",
+  "version": "1.0.0",
+  "description": "yiban-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burchin/yiban-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burchin/yiban-server/issues"
+  },
+  "homepage": "https://github.com/burchin/yiban-server#readme",
+  "dependencies": {
+    "koa": "^2.8.2"
+  }
+}
